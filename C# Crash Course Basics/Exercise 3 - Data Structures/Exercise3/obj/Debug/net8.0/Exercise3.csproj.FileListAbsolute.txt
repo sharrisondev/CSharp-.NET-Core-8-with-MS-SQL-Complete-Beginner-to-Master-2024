@@ -1,0 +1,14 @@
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\bin\Debug\net8.0\Exercise3.exe
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\bin\Debug\net8.0\Exercise3.dll
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.dll
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 3 - Data Structures\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll

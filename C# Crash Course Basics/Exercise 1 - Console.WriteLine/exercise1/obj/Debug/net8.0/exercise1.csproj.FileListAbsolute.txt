@@ -1,0 +1,14 @@
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfoInputs.cache
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfo.cs
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.csproj.CoreCompileInputs.cache
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\bin\Debug\net8.0\exercise1.exe
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\bin\Debug\net8.0\exercise1.deps.json
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\bin\Debug\net8.0\exercise1.runtimeconfig.json
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\bin\Debug\net8.0\exercise1.dll
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\bin\Debug\net8.0\exercise1.pdb
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.dll
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\refint\exercise1.dll
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.pdb
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\exercise1.genruntimeconfig.cache
+c:\Users\Shaun\Desktop\C# Crash Course Basics\Exercise 1 - Console.WriteLine\exercise1\obj\Debug\net8.0\ref\exercise1.dll
